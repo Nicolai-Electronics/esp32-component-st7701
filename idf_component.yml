@@ -1,0 +1,11 @@
+version: "1.0.0"
+targets:
+  - esp32p4
+description: ESP LCD ST7701 (MIPI-DSI)
+url: https://github.com/Nicolai-Electronics/esp32-component-st7701
+repository: git://github.com/Nicolai-Electronics/esp32-component-st7701.git
+issues: https://github.com/Nicolai-Electronics/esp32-component-st7701/issues
+dependencies:
+  idf: ">=5.3"
+  cmake_utilities: "0.*"
+
