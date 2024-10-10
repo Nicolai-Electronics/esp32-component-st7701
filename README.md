@@ -1,4 +1,6 @@
-# ESP LCD ST7701
+# [DEPRECATED] ESP LCD ST7701
+
+This component has been superseded by the ST7701 driver component published by Espressif. Please use the Espressif component instead.
 
 [![Component Registry](https://components.espressif.com/components/nicolaielectronics/esp_lcd_st7701/badge.svg)](https://components.espressif.com/components/nicolaielectronics/esp_lcd_st7701)
 
